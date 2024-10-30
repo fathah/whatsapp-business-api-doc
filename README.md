@@ -22,7 +22,8 @@ Body Params
 
 # Create Webhook
 Now create a `webhook` and add it to Configuration and Subscribe to `messages`
-Check Sample Code : webhooksample.ts
+
+Check Sample Code : [webhook-sample.ts](webhook-sample.ts)
 # Subscribe to Webhook
 ```
 https://graph.facebook.com/v20.0/{WA_BUSINESS_ID}/subscribed_apps
